@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6QL4RSHO9P2" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Importance Of Data Protection And GDPR Compliance In Customer Interactions</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Importance_Of_Data_Protection_And_GDPR_Compliance_In_Customer_Interactions_ORG">
+    <organization identifier="Importance_Of_Data_Protection_And_GDPR_Compliance_In_Customer_Interactions_ORG">
+      <title>Importance Of Data Protection And GDPR Compliance In Customer Interactions</title>
+      <item identifier="Cybersecurity_Awareness_Course_SCO" isvisible="true" identifierref="__6QL4RSHO9P2_RES">
+        <title>Importance Of Data Protection And GDPR Compliance In Customer Interactions</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6QL4RSHO9P2_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/6S0Fi32WYQf_44100_48_0.mp3" />
+      <file href="mobile/5wS25Sh4AF0_P_0_0_2000_1852.jpg" />
+      <file href="mobile/5l2laxfVOL1.png" />
+      <file href="story_content/69NGuJgk4eI_44100_48_0.mp3" />
+      <file href="story_content/5VjC5CQny9D_44100_48_0.mp3" />
+      <file href="mobile/5feKQxJdV9g_P_0_278_1146_867.png" />
+      <file href="story_content/61SwMTNeLpp_44100_48_0.mp3" />
+      <file href="mobile/5p9pZLn84d6_P_211_225_1541_1525.jpg" />
+      <file href="story_content/6KEuj5VoDlf_44100_48_0.mp3" />
+      <file href="mobile/5lbVie8oMXv_P_322_435_1330_1104.png" />
+      <file href="mobile/6FAPl9ejqRN.jpg" />
+      <file href="mobile/5zDluy5wedd.png" />
+      <file href="mobile/65Jd00GqGYa_P_476_106_1107_1172.png" />
+      <file href="story_content/6WG4mreDt8w_44100_48_0.mp3" />
+      <file href="mobile/6jS47qbvRug_P_92_186_426_267.png" />
+      <file href="mobile/6lULyjbJgtl_P_140_206_630_634.png" />
+      <file href="story_content/6GuuV1DguvT_44100_48_0.mp3" />
+      <file href="mobile/5j22Oc5wKD5_P_0_83_500_353.png" />
+      <file href="mobile/5jNgZ6JA6fz.png" />
+      <file href="mobile/6Nbkb9FUEuc_P_147_155_1774_1751.jpg" />
+      <file href="story_content/60BB7HaQQ9t_44100_48_0.mp3" />
+      <file href="story_content/5aXGqOlmWDw_44100_48_0.mp3" />
+      <file href="story_content/5kIcwZNh3UX_44100_48_0.mp3" />
+      <file href="story_content/6Xcdt9Zd0j4_44100_48_0.mp3" />
+      <file href="story_content/6p4FAR366su_44100_48_0.mp3" />
+      <file href="story_content/5imqLcfergw_44100_48_0.mp3" />
+      <file href="mobile/6iqxyrwjXN5_P_24_86_695_365.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/triggers.js" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Shape5qXpg8Lr4IZ.png" />
+      <file href="mobile/Shape6TFeE9jO0CI.png" />
+      <file href="mobile/Shape5wR62zYdGw5.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5doTDxGxDBG.js" />
+      <file href="html5/data/js/65LP6n3r80w.js" />
+      <file href="html5/data/js/66zTf3gzJvy.js" />
+      <file href="html5/data/js/6A6C9tpgVhx.js" />
+      <file href="html5/data/js/6CmktnD0nPG.js" />
+      <file href="html5/data/js/6DlcNJih1l3.js" />
+      <file href="html5/data/js/6mulcmY8WzL.js" />
+      <file href="html5/data/js/6SV35wLn2QR.js" />
+      <file href="html5/data/js/6WakakZNd1K.js" />
+      <file href="html5/data/js/6Y8mjiAiCr5.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
